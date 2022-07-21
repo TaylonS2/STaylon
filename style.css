@@ -25,13 +25,13 @@ img {
   /* colors */
   --hue: 159;
   /* HSL color mode */
-  --base-color: rgb(255, 255, 255);
+  --base-color: purple ;
   --base-color-second: purple;
   --base-color-alt: purple;
   --title-color: purple;
   --text-color: purple;
   --text-color-light: rgb(193, 45, 198);
-  --body-color: purple;
+  --body-color: rgb(255, 255, 255);
 
   /* fonts */
   --title-font-size: 1.875rem;
