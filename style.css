@@ -25,8 +25,8 @@ img {
   /* colors */
   --hue: 159;
   /* HSL color mode */
-  --base-color: purple ;
-  --base-color-second: rgb(255, 255, 255);
+  --base-color: rgb(255, 255, 255) ;
+  --base-color-second: purple ;
   --base-color-alt: rgb(255, 255, 255);
   --title-color: purple;
   --text-color: rgb(255, 255, 255);
