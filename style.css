@@ -28,10 +28,10 @@ img {
   --base-color: rgb(255, 255, 255) ;
   --base-color-second: purple ;
   --base-color-alt: rgb(255, 255, 255);
-  --title-color: purple;
-  --text-color: rgb(255, 255, 255);
-  --text-color-light: rgb(193, 45, 198);
-  --body-color: rgb(255, 255, 255);
+  --title-color: purple ;
+  --text-color: purple ;
+  --text-color-light: rgb(193, 45, 198) ;
+  --body-color: rgb(255, 255, 255) ;
 
   /* fonts */
   --title-font-size: 1.875rem;
