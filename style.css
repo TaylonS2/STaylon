@@ -25,13 +25,13 @@ img {
   /* colors */
   --hue: 159;
   /* HSL color mode */
-  --base-color: rgb(255, 255, 255) ;
+  --base-color: #926ab9 ;
   --base-color-second: rgb(255, 255, 255) ;
   --base-color-alt: rgb(255, 255, 255) ;
   --title-color: #926ab9 ;
   --text-color: rgb(255, 255, 255) ;
   --text-color-light: #926ab9 ;
-  --body-color: rgb(255, 255, 255) ;
+  --body-color: #926ab9 ;
 
   /* fonts */
   --title-font-size: 1.875rem;
