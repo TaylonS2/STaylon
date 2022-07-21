@@ -26,7 +26,7 @@ img {
   --hue: 159;
   /* HSL color mode */
   --base-color: #926ab9 ;
-  --base-color-second: rgb(255, 255, 255) ;
+  --base-color-second: #926ab9 ;
   --base-color-alt: #926ab9 ;
   --title-color: #926ab9 ;
   --text-color: #926ab9 ;
