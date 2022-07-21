@@ -31,7 +31,7 @@ img {
   --title-color: #926ab9 ;
   --text-color: rgb(255, 255, 255) ;
   --text-color-light: #926ab9 ;
-  --body-color: #926ab9 ;
+  --body-color: white ;
 
   /* fonts */
   --title-font-size: 1.875rem;
