@@ -28,9 +28,9 @@ img {
   --base-color: rgb(255, 255, 255) ;
   --base-color-second: rgb(255, 255, 255) ;
   --base-color-alt: rgb(255, 255, 255) ;
-  --title-color: rgb(255, 255, 255) ;
+  --title-color: #926ab9 ;
   --text-color: rgb(255, 255, 255) ;
-  --text-color-light: rgb(193, 45, 198) ;
+  --text-color-light: #926ab9 ;
   --body-color: rgb(255, 255, 255) ;
 
   /* fonts */
