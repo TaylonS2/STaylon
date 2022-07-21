@@ -27,9 +27,9 @@ img {
   /* HSL color mode */
   --base-color: #926ab9 ;
   --base-color-second: #926ab9 ;
-  --base-color-alt: #926ab9 ;
-  --title-color: #926ab9 ;
-  --text-color: #926ab9 ;
+  --base-color-alt: #af86d7 ;
+  --title-color: #000000 ;
+  --text-color: #000000 ;
   --text-color-light: white ;
   --body-color: white ;
 
